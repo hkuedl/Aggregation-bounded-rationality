@@ -4,8 +4,6 @@ _This work develops a flexibility-aggregation framework that incorporates the pr
 
 Codes for the paper "Bounded Rationality Integrated Flexibility Aggregation of Residential Air Conditioning Loads."
 
-Authors: Xueyuan Cui, Yi Wang, and Audun Botterud.
-
 ## Requirements
 
 The registered experiments use Python 3.11 and Gurobi 12.0. A working Gurobi license is required for the optimization-based node-level, network-level, and market-clearing experiments.
